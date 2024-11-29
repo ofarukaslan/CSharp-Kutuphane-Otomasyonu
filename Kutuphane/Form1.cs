@@ -1,4 +1,5 @@
-﻿using System;
+// Kopyalanma tarihi : 29.11.2024
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
